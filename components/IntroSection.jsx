@@ -15,7 +15,7 @@ import video from "@/icons/video.jpg";
 
 export default function IntroSection() {
   return (
-    <div className="flex flex-wrap gap-1 max-sm:gap-20 justify-between md:py-16 md:px-20 max-sm:p-4 max-sm:mb-16">
+    <div className="flex flex-wrap gap-1 max-sm:gap-20 justify-between md:py-28 md:px-20 max-sm:p-4 max-sm:mb-16">
       <div className="md:py-6 md:w-[50%] max-sm:text-center">
         <h2 className="text-5xl max-sm:text-3xl font-semibold mb-2">
           Build a Credit Card
