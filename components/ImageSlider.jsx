@@ -7,9 +7,9 @@ const ImageSlider = () => {
   const [positionIndexes, setPositionIndexes] = useState([0, 1, 2]);
 
   const images = [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGR1lLuSGN7js5KTNmffGmL2XscBSjtbwSxw&usqp=CAU",
+    "https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_640.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevrEvKxXr9eE2U61FSffFOcvHB869gdetIw&usqp=CAU",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV09GPKdujsYDNfNDciaAHTSR8gSsKPTcq6Q&usqp=CAU",
+    "https://img.freepik.com/premium-photo/red-blue-stary-night-cosmos-background-wallpaper_966938-535.jpg",
   ];
 
   const positions = ["center", "left", "right"];

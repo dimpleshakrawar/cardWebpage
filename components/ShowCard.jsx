@@ -26,7 +26,7 @@ export default function ShowCard() {
   const cardIcons = [smallCard1, smallCard2, smallCard3, smallCard4];
   return (
     <div className="p-8">
-      <div className="md:mb-10 max-sm:p-6 md:h-[15rem] max-sm:h-[12rem] transition-all duration-300 ease-in-out">
+      <div className="md:mb-10 max-sm:p-6 md:h-[15rem] max-sm:h-[12rem] transition-opacity duration-300 ease-in-out">
         <Image
           src={cardImages[selectedIndex]}
           alt="cardImage"
