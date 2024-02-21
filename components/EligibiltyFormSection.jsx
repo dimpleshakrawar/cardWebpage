@@ -42,7 +42,7 @@ export default function EligibilityFormSection() {
         <MobileViewSection
           heading={"Fill Eligibility Form"}
           subheading={
-            "Please fill an application form to make sure you’re eligible for the card. You can fill this later as well"
+            "Please fill an application form to make sure you&apos;re eligible for the card. You can fill this later as well"
           }
         />
       </div>

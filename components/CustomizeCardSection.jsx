@@ -36,13 +36,14 @@ export default function CustomizeCardSection() {
         </div>
         <div className=" flex flex-col justify-center md:w-[50%] max-sm:hidden">
           <p className="text-md  mb-4">
-            That’s why it comes with benefits & rewards chosen by you. Available
-            in multiple designs, your card comes in a style selected by you. You
-            can come back each year, to edit your benefits or update your style
+            That&apos;s why it comes with benefits & rewards chosen by you.
+            Available in multiple designs, your card comes in a style selected
+            by you. You can come back each year, to edit your benefits or update
+            your style
           </p>
           <p className="text-md mb-4">
             Copy Your OneSync Credit Card stays true to you, year after year.
-            It’s the only card you’ll ever need.
+            It&apos;s the only card you&apos;ll ever need.
           </p>
 
           <a className="underline text-lg font-normal">Get Started &gt;</a>
