@@ -22,7 +22,7 @@ export default function EligibilityFormSection() {
           />
           <h2 className="text-3xl font-semibold mb-4">Fill Eligibility Form</h2>
           <h2 className="text-lg font-medium">
-            Tell us about yourself, to find out if you're eligible to apply
+            Tell us about yourself, to find out if you’re eligible to apply
           </h2>
         </div>
       </div>
